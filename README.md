@@ -156,6 +156,7 @@ Possible extensions include:
 - command-line interface support
 - support for larger datasets
 - more detailed experiment reporting
+  
 Author
-Kamil
+Kamil Sobolewski
 MSci Computer Science student at the University of Birmingham
